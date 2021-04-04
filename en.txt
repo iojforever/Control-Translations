@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Disabled for the public beta
+overview: Overview
+quick_actions: Quick Actions
+
+dashboard: Dashboard
+control_panel: Control Panel
+plugin_list: Plugin List
+logs: Logs
+keys: Keys
+profile: User Profile
+public_beta: Public Beta
+
+server_overview: Server Overview
+online_players: Online Players
+online_staff: Online Staff
+online_admins: Online Admins
+new_players_today: New Players Today
+welcome: Welcome!
+server_off: Server Off
+have_a_nice_day: Have a nice day!
+max_players: Maximum Players
+current_month: Current Month
+past_month: Past Month
+active_players: Active Players
+new: New
+month: month
+
+restart_round: Restart Round
+end_round: End Round
+restart_server: Restart Server
+shutdown: Shutdown
+console_disabled: Console Disabled
+
+available_plugins: Available Plugins
+plugin: Plugin
+description: Description
+download_latest: Download Latest
+
+configure: Configure
+save: Save
+reset: Reset
+
+server_secrets: Server Secrets
+copy_key: Copy Key
+reset_key: Reset Key
+get_another_key: Get another key!
+
+user: User
+delete_acc: Delete Account
