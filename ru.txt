@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Отключено на время беты
+overview: Обзор
+quick_actions: Действия
+
+dashboard: Панель
+control_panel: Панель управления
+plugin_list: Список плагинов
+logs: Логирование
+keys: Ключи
+profile: Профиль
+public_beta: Публичная бета
+
+server_overview: Обзор сервера
+online_players: Игроков в сети
+online_staff: Участников команды в сети
+online_admins: Админов в сети
+new_players_today: Новых игроков за сегодня
+welcome: Добро пожаловать!
+server_off: Сервер отключён
+have_a_nice_day: Хорошего дня!
+max_players: Максимум игроков
+current_month: Текущий месяц
+past_month: Прошлый месяц
+active_players: Активные игроки
+new: Новые
+month: месяц
+
+restart_round: Перезапустить раунд
+end_round: Завершить раунд
+restart_server: Перезагрузить сервер
+shutdown: Выключить сервер
+console_disabled: Консоль отключена
+
+available_plugins: Доступные плагины
+plugin: Плагин
+description: Описание
+download_latest: Скачать
+
+configure: Настройка
+save: Сохранить
+reset: Сбросить
+
+server_secrets: Секретные ключи сервера
+copy_key: Скопировать ключ
+reset_key: Сбросить ключ
+get_another_key: Ещё один ключ!
+
+user: Пользователь
+delete_acc: Удалить аккаунт
