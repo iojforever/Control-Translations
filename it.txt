@@ -3,7 +3,7 @@ overview: Panoramica
 quick_actions: Azioni rapide
 
 dashboard: Dashboard
-control_panel: Pannello di controllo 
+control_panel: Pannello di controllo
 plugin_list: Lista Plugins
 logs: Logs
 keys: Chiavi
@@ -15,25 +15,25 @@ online_players: Players online
 online_staff: Staff online
 online_admins: Admins Online
 new_players_today: Nuovi players oggi
-welcome: Benvenuto! 
+welcome: Benvenuto!
 server_off: Server offline
-have_a_nice_day: Buona giornata 
-max_players: Players Massimi 
-current_month: Mese corrente 
+have_a_nice_day: Buona giornata
+max_players: Players Massimi
+current_month: Mese corrente
 past_month: Mese passato
 active_players: Players attivi
 new: Nuovo
 month: mese
 
 restart_round: Riavvia Round
-end_round: Finisci Round 
-restart_server: Riavvia Server 
-shutdown: Spegnimento 
-console_disabled: Console disabilitata 
+end_round: Finisci Round
+restart_server: Riavvia Server
+shutdown: Spegnimento
+console_disabled: Console disabilitata
 
-available_plugins: Plugins disponibili 
+available_plugins: Plugins disponibili
 plugin: Plugin
-description: Descrizione 
+description: Descrizione
 download_latest: Scarica l'ultima versione
 
 configure: Configura
@@ -41,9 +41,9 @@ save: Salva
 reset: Formatta
 
 server_secrets: Segreti Server
-copy_key: Copia Chiave 
+copy_key: Copia Chiave
 reset_key: Formatta Chiave
-get_another_key: Prendi un'altra chiave 
+get_another_key: Prendi un'altra chiave
 
 user: Utente
-delete_acc: Elimina Account 
+delete_acc: Elimina Account
