@@ -1,8 +1,8 @@
-public_beta_disabled_msg: Отключено на время беты
+public_beta_disabled_msg: Отключено на время бета-тестирования
 overview: Обзор
 quick_actions: Действия
 
-dashboard: Панель
+dashboard: Аналитическая панель
 control_panel: Панель управления
 plugin_list: Список плагинов
 logs: Логирование
@@ -11,9 +11,9 @@ profile: Профиль
 public_beta: Публичная бета
 
 server_overview: Обзор сервера
-online_players: Игроков в сети
-online_staff: Участников команды в сети
-online_admins: Админов в сети
+online_players: Игроков на сервере
+online_staff: Членов команды на сервере
+online_admins: Администраторов на сервере
 new_players_today: Новых игроков за сегодня
 welcome: Добро пожаловать!
 server_off: Сервер отключён
