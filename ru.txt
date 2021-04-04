@@ -43,7 +43,7 @@ reset: Сбросить
 server_secrets: Секретные ключи сервера
 copy_key: Скопировать ключ
 reset_key: Сбросить ключ
-get_another_key: Ещё один ключ!
+get_another_key: Получи другой ключ!
 
 user: Пользователь
 delete_acc: Удалить аккаунт
