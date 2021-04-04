@@ -34,7 +34,7 @@ console_disabled: Консоль отключена
 available_plugins: Доступные плагины
 plugin: Плагин
 description: Описание
-download_latest: Скачать
+download_latest: Скачать последнюю версию
 
 configure: Настройка
 save: Сохранить
